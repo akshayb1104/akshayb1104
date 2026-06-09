@@ -13,7 +13,7 @@ I'm a recent Data Science graduate passionate about transforming data into actio
 * Statistics
 * SQL
 
-**Programming & Data Science**
+**Programming**
 
 * Python
 * Pandas
@@ -21,6 +21,13 @@ I'm a recent Data Science graduate passionate about transforming data into actio
 * Matplotlib
 * Seaborn
 
+## 🎓 Certifications
+
+| Certification | Issuing Organization |
+|--------------|---------------------|
+| Data Analytics Job Simulation | Deloitte Australia (Forage) |
+| Data Analytics & Visualization Job Simulation | Accenture (Forage) |
+| Agentic AI Starter Course| 
 
 
 ### 🎯 Career Objective
